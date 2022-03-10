@@ -15,3 +15,15 @@ Below is part of copyright information of the NET Bible®:
 "1a. There has been a lot of interest in producing audio recordings of the NET Bible for local ministry user. Therefore a local ministry eg. Church is granted unlimited non-commercial rights to use the NET Bible text to make audio recordings. You can produce audio recordings of partial or complete books of the Bible (WORK) for free distribution on email and/or CD within the congregation, and as free MP3 downloads made available on the church website and the personal blogs of members of the church to be of benefit to the church at large."
 
 For details, read https://netbible.com/copyright/.
+
+# Integration into Unique Bible App
+
+These files will also be integrated into Unique Bible App audio bible features.
+
+If you want to download these files for use in Unique Bible App:
+
+1) create a folder named "CUV" in directory "UniqueBible/music"
+2) download zip files from this repository
+3) unzip all files in the folder "UniqueBible/music/CUV"
+
+Read more at: https://github.com/eliranwong/UniqueBible
