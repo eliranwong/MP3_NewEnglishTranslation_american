@@ -6,7 +6,7 @@ As a local ministry, <a href="https://GospelChurch.uk">Gospel Church (UK)</a> us
 
 # FREE for Non-commercial Purpose
 
-NET Bible® grant local ministry permission to use it FREE for non-commercial purpose:
+NET Bible® grant local ministry permission to use it FREE for non-commercial purpose.
 
 Below is part of copyright information of the NET Bible®:
 
