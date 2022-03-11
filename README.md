@@ -20,7 +20,7 @@ For details, read https://netbible.com/copyright/.
 
 Download ALL Books in one go:
 
-<a href='https://github.com/eliranwong/NewEnglishTranslationMP3/archive/refs/heads/main.zip'>中文和合本聖經（全部６６卷書）</a>
+<a href='https://github.com/eliranwong/NewEnglishTranslationMP3/archive/refs/heads/main.zip'>New English Translation (ALL 66 Books)</a>
 
 Download Individual Books:
 
