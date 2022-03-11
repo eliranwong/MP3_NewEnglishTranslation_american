@@ -2,7 +2,7 @@
 
 MP3 Audio bible - New English Translation (verse by verse)
 
-As a local ministry, <a href="https://GospelChurch.uk">Gospel Church (UK)</a> uses the bible text of New English Translation to produce MP3 audio files here for the benefit of the chruch at large.  These files are created with official "<a href='https://cloud.google.com/text-to-speech'>Google Cloud Text-to-Speech</a>" paid service and "<a href='https://github.com/eliranwong/UniqueBible'>Unique Bible App</a>".  In compliance with NET Bible® copyright, we provide these files for free.  Any re-distribution of these files should also be non-commercial and free.  Please give credits to Gospel Church (UK) for production of these files in case you re-distribute the files provided in this repository.  Thank you.
+As a local ministry, <a href="https://GospelChurch.uk">Gospel Church (UK)</a> uses the bible text of New English Translation (2nd edition) to produce MP3 audio files here for the benefit of the chruch at large.  These files are created with official "<a href='https://cloud.google.com/text-to-speech'>Google Cloud Text-to-Speech</a>" paid service and "<a href='https://github.com/eliranwong/UniqueBible'>Unique Bible App</a>".  In compliance with NET Bible® copyright, we provide these files for free.  Any re-distribution of these files should also be non-commercial and free.  Please give credits to Gospel Church (UK) for production of these files in case you re-distribute the files provided in this repository.  Thank you.
 
 # FREE for Non-commercial Purpose
 
