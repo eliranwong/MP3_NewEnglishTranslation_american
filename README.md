@@ -102,4 +102,8 @@ Download from menu:
 <img width="350" alt="Screenshot 2022-03-11 at 11 35 52" src="https://user-images.githubusercontent.com/25262722/157859994-61f4eec3-d67d-414f-8e23-1bb8e67eae94.png">
 <img width="363" alt="Screenshot 2022-03-11 at 11 37 21" src="https://user-images.githubusercontent.com/25262722/157860010-0461315e-2794-4a1b-acde-34f038fffcdb.png">
 
+Open NET and click the &#9834; button, right next to each chapter or verse number.
+
+<img width="901" alt="Screenshot 2022-03-11 at 11 44 31" src="https://user-images.githubusercontent.com/25262722/157861186-d4bd8d94-d388-4e9b-b318-90cbe669e7d2.png">
+
 Read more about Unique Bible App at: https://github.com/eliranwong/UniqueBible
