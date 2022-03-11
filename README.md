@@ -95,12 +95,11 @@ Download Individual Books:
 
 Unique Bible App is a FREE and non-commercial bible software built for the church at large.
 
-These files will also be integrated into Unique Bible App audio bible features.
+Files prvided here are also integrated into Unique Bible App audio bible features.
 
-If you want to download these files for use in Unique Bible App:
+Download from menu:
 
-1) create a folder named "CUV" in directory "UniqueBible/music"
-2) download zip files from this repository
-3) unzip all files in the folder "UniqueBible/music/CUV"
+<img width="350" alt="Screenshot 2022-03-11 at 11 35 52" src="https://user-images.githubusercontent.com/25262722/157859994-61f4eec3-d67d-414f-8e23-1bb8e67eae94.png">
+<img width="363" alt="Screenshot 2022-03-11 at 11 37 21" src="https://user-images.githubusercontent.com/25262722/157860010-0461315e-2794-4a1b-acde-34f038fffcdb.png">
 
-Read more at: https://github.com/eliranwong/UniqueBible
+Read more about Unique Bible App at: https://github.com/eliranwong/UniqueBible
